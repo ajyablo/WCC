@@ -24,3 +24,6 @@ Future:<br>
 Add video overlay (via cv2?) to see the server's HDMI output.<br>
 Add GUI feedback for relay status.<br>
 Add GUI feedback for System state.
+<p>
+Deep Future:<br>
+3D printed case to house final wiring and PCBs for easy hookup.
