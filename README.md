@@ -1,7 +1,7 @@
 # WCC <br>
 <b>Workstation Control Centre</b><br>
-<i>All of my projects and hardware are named after Futurama Characters.<br>
-My Home Server has been named "Welshi" after the replacement for Scotty in Star Trek in "Where No Fan Has Gone Before".<br>
+<i>All of my hardware get named after Futurama Characters.<br>
+My Home Server is named "Welshi" after the replacement for Scotty in Star Trek in "Where No Fan Has Gone Before".<br>
 This project uses "Welshi" in place of "Workstation" quite often.</i>
 <p>
 DIY "Pi-KVM" to allow remote control of a PC.
